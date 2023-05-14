@@ -6,12 +6,12 @@ public class AppiumTest {
 	@Test
 	public void NativeAPpAndroid()
 	{
-		System.out.println("NativeAPpAndroid");
+		System.out.println("Git X NativeAPpAndroid");
 	}
 	
 	@Test
 	public void IOSApps()
 	{
-		System.out.println("IOSApps");	
+		System.out.println("Git X IOSApps");	
 	}
 }

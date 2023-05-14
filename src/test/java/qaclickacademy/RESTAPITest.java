@@ -7,12 +7,12 @@ public class RESTAPITest {
 	@Test
 	public void postJira()
 	{
-		System.out.println("postJira");
+		System.out.println("Git X postJira");
 	}
 	
 	@Test
 	public void deleteTwitter()
 	{
-		System.out.println("deleteTwitter");	
+		System.out.println("Git X deleteTwitter");	
 	}
 }
