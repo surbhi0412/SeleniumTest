@@ -8,6 +8,8 @@ public class RESTAPITest {
 	public void postJira()
 	{
 		System.out.println("Git X postJira");
+		System.out.println("Git Y postJira");
+		System.out.println("Git Z postJira");
 	}
 	
 	@Test
