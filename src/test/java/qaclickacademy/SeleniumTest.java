@@ -11,10 +11,20 @@ public class SeleniumTest {
 	{
 		System.out.println("Git X BrowserAUtomation");	
 		System.out.println("Git Y BrowserAUtomation");	
+		
+		
+		System.out.println("Git X BrowserAUtomation");	
+		System.out.println("Git Y BrowserAUtomation");	
+		
+		System.out.println("Git X BrowserAUtomation");	
+		System.out.println("Git Y BrowserAUtomation");	
 	}
 	@Test
 	public void elementsUi()
 	{
+		System.out.println("Git X elementsUi");
+		
+		System.out.println("Git X elementsUi");	
 		System.out.println("Git X elementsUi");	
 	}
 	
