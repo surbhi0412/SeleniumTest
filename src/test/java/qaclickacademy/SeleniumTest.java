@@ -28,5 +28,14 @@ public class SeleniumTest {
 		System.out.println("Git X elementsUi");	
 	}
 	
+	@Test
+	public void elementsUii()
+	{
+		System.out.println("Git X elementsUi");
+		
+		System.out.println("Git X elementsUi");	
+		System.out.println("Git X elementsUi");	
+	}
+	
 	
 }
